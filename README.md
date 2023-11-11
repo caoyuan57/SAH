@@ -1,4 +1,4 @@
-# BGAN
+# SAH
 
 To run this codes, you should do follow things:<p>
 1. extract resnet feature and then run create_S.py to construct similarity matrix.<br>  You can download cifar-10.mat <a href="https://drive.google.com/open?id=0Bzg9TvY-s7y2Zy1CQklaTTJQdUU"> (here) </a>training data and  cifar_KNN.npz from <a href="https://drive.google.com/open?id=0Bzg9TvY-s7y2WFFlc3F0T2RkalE"> (here) </a> 
